@@ -1,0 +1,2 @@
+Animalsales.App=org.springframework.stereotype.Component
+Animalsales.GreetingController=org.springframework.stereotype.Component
